@@ -1,0 +1,31 @@
+用于设置网页的元信息，是个搜索引擎用的
+
+常用属性
+charset 指定网页字符集的。
+name 指定元数据的信息
+content 指定元数据的内容
+> name和content成对出现
+
+
+name属性可包含以下常用值：
+
+application-name
+
+定义正运行在该网页上的网络应用名称。
+
+author
+
+文档的作者名称，自由格式。
+
+description
+
+其中包含页面内容的简短和精确的描述。 一些浏览器，如Firefox和Opera，将其用作书签页面的默认描述。
+
+generator
+
+包含生成页面的软件的标示符。
+
+keywords
+
+包含与逗号分隔的页面内容相关的单词。
+
